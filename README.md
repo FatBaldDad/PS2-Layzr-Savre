@@ -1,3 +1,15 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Images/Logos/FBD-PS2-LayzrSavre-Logo-Dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="Images/Logos/FBD-PS2-LayzrSavre-Logo-Light.png">
+    <img
+      src="Images/Logos/FBD-PS2-LayzrSavre-Logo-Light.png"
+      alt="FBD PS2 LayzrSavre Logo"
+      width="500"
+    >
+  </picture>
+</p>
+
 # PS2 Layzr Savre
 
 **PS2 Layzr Savre** is an experimental PlayStation 2 optical-drive telemetry, monitoring, and future protection project.
