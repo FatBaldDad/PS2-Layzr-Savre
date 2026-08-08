@@ -231,7 +231,7 @@ See the `LICENSE.md` file for the full proprietary notice and limited public ref
 ## Project Owner
 
 **Project:** PS2-Layzr-Savre  
-**Owner:** Burch Goldner / Fat Bald Dad  
+**Owner:** Fat Bald Dad  
 **Brand:** FBD Retro Game / Fat Bald Dad  
 **Status:** Private development  
 **Contact:** F.B.D.RetroGame@gmail.com
